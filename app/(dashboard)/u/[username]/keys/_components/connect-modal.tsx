@@ -65,7 +65,7 @@ const ConnectModal = () => {
             <SelectItem value={WHIP}>WHIP</SelectItem>
           </SelectContent>
         </Select>
-        <Alert>
+        <Alert className="bg-[rgb(31,33,43)]">
           <AlertTriangle className="h-4 w-4" />
           <AlertTitle>Warning!</AlertTitle>
           <AlertDescription>
