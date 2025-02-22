@@ -53,7 +53,7 @@ Key Features:
     - Audience demographics and activity reports.
     - Video performance analytics (playbacks, skips, rewinds).
 
- 10. **Moderation and Reporting**
+10. **Moderation and Reporting**
     - Content moderation tools (automatic filters, manual review).
     - Streamer moderation tools (mute, ban, timeout).
     - User reporting system for inappropriate content or behavior.
