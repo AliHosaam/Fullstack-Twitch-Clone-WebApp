@@ -86,73 +86,41 @@ Key Features:
     - Optimized for low latency and fast video delivery.
     - Support for Content Delivery Networks (CDNs) to improve video quality.
 
+Techs Used:
 
-Techs Used: 
+1. **Frontend:**
+   - **React**: Library for building dynamic and interactive UIs.
+   - **Next.js**: Framework for server-side rendering, routing, and full-stack features.
+   - **TailwindCSS**: Utility-first CSS framework for building responsive and customizable UIs.
+   - **Radix UI**: Unstyled components library for building custom UI elements like modals, sliders, and avatars.
+   - **Lucide-react**: React components for rendering icons.
+   - **Class Variance Authority (CVA)**: Utility for managing conditional class names and CSS states.
+   - **Zustand**: State management library for React.
+   - **Sonner**: Toast notification library.
+   - **Uploadthing**: File upload component for handling image and video uploads.
+   - **Tailwind-merge**: Tool for merging Tailwind CSS class names safely.
 
-1. **Frontend Framework:**
-   - Next.js: Version 14.2.1
+2. **Backend:**
+   - **Prisma**: ORM for interacting with databases (e.g., MongoDB).
+   - **MongoDB**: NoSQL database for flexible and scalable data storage.
+   - **JWT (JSON Web Token)**: Token-based authentication for secure access.
+   - **Svix**: Webhook service for event-driven applications.
+   - **LiveKit**: WebRTC-based platform for real-time video, audio, and data streaming.
+   - **Prisma Client**: Type-safe query builder for interacting with MongoDB.
 
-2. **Authentication and Authorization:**
-   - @clerk/nextjs: Version 4.29.1
+3. **Other Libraries and Dependencies:**
+   - **Date-fns**: Date utility library for date manipulation.
+   - **Query-string**: Utility for parsing and stringifying URL query strings.
+   - **uuid**: Package for generating unique IDs.
+   - **usehooks-ts**: Collection of useful React hooks for common tasks.
+   - **@clerk/nextjs**: User authentication and management platform with Clerk for Next.js.
+   - **@tanstack/react-table**: Data table library for building fully customizable tables.
 
-3. **Form Validation:**
-   - @hookform/resolvers: Version 3.4.0
-   - react-hook-form: Version 7.51.4
+4. **Development Tools:**
+   - **TypeScript**: A superset of JavaScript for adding static types to the codebase.
+   - **ESLint**: Linter for identifying and fixing issues in code.
+   - **PostCSS**: Tool for transforming CSS with JavaScript plugins.
+   - **Prisma CLI**: Command-line tool for managing Prisma migrations and database interactions.
+   - **TailwindCSS**: Utility-first CSS framework for styling.
+   - **@types**: Type definitions for TypeScript (e.g., @types/react, @types/node).
 
-4. **Natural Language Processing:**
-   - @langchain/community: Version 0.2.11
-   - @langchain/openai: Version 0.1.3
-   - @langchain/pinecone: Version 0.0.7
-
-5. **Database Access:**
-   - @prisma/client: Version 5.14.0
-   - @pinecone-database/pinecone: Version 2.2.2
-   - prisma: Version 5.14.0
-
-6. **UI Components:**
-   - @radix-ui/react-avatar: Version 1.0.4
-   - @radix-ui/react-dialog: Version 1.0.5
-   - @radix-ui/react-dropdown-menu: Version 2.0.6
-   - @radix-ui/react-label: Version 2.0.2
-   - @radix-ui/react-select: Version 2.0.0
-   - @radix-ui/react-separator: Version 1.0.3
-   - @radix-ui/react-slot: Version 1.0.2
-   - @radix-ui/react-toast: Version 1.1.5
-   - react-spinners: Version 0.13.8
-
-7. **Real-time Communication and Caching:**
-   - @upstash/ratelimit: Version 1.2.1
-   - @upstash/redis: Version 1.31.5
-
-8. **AI Integration:**
-   - ai: Version 3.1.35
-   - openai: Version 4.51.0
-   - openai-edge: Version 1.2.2
-
-9. **HTTP Requests:**
-   - axios: Version 1.6.8
-
-10. **Utility Libraries:**
-    - class-variance-authority: Version 0.7.0
-    - clsx: Version 2.1.0
-    - langchain: Version 0.0.136
-    - lucide-react: Version 0.370.0
-    - query-string: Version 9.0.0
-    - replicate: Version 0.30.2
-    - zod: Version 3.23.8
-    - zustand: Version 4.5.2
-
-11. **Payment Processing:**
-    - stripe: Version 15.11.0
-
-12. **CSS and Styling:**
-    - tailwindcss: Version 3.4.1
-    - tailwind-merge: Version 2.2.2
-    - tailwindcss-animate: Version 1.0.7
-
-13. **TypeScript and Development Tools:**
-    - typescript: Version 5
-    - postcss: Version 8
-
-14. **Themes:**
-    - next-themes: Version 0.3.0
