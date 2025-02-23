@@ -123,4 +123,8 @@ Techs Used:
    - **Prisma CLI**: Command-line tool for managing Prisma migrations and database interactions.
    - **TailwindCSS**: Utility-first CSS framework for styling.
    - **@types**: Type definitions for TypeScript (e.g., @types/react, @types/node).
+  
+Screenshots: 
+
+  ![Image](https://github.com/user-attachments/assets/cc9a8959-f98b-46dc-8bce-81bc933e5203)
 
