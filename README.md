@@ -127,4 +127,14 @@ Techs Used:
 Screenshots: 
 
   ![Image](https://github.com/user-attachments/assets/cc9a8959-f98b-46dc-8bce-81bc933e5203)
+  ![Image](https://github.com/user-attachments/assets/b628bc62-3f1a-497f-b18b-797e9fc53a95)
+  ![Image](https://github.com/user-attachments/assets/9864f75b-e158-41b9-b48c-d1724a02c446)
+  ![Image](https://github.com/user-attachments/assets/373dd794-2648-4c76-be07-9b7ed1bc9182)
+  ![Image](https://github.com/user-attachments/assets/6ed08563-bb30-4fcd-9c85-82b28f52d996)
+  ![Image](https://github.com/user-attachments/assets/788a96c6-b8bc-47d7-b929-6ff8f822bc25)
+  ![Image](https://github.com/user-attachments/assets/af945d18-c3b7-404b-a964-01eeac4ed445)
+  ![Image](https://github.com/user-attachments/assets/8a4b6d54-20c5-4e44-a21f-87a72fd0cc4f)
+  ![Image](https://github.com/user-attachments/assets/481f5f75-6186-4e3c-a255-c384eeb95365)
+  ![Image](https://github.com/user-attachments/assets/ed11a1d2-0a4f-4495-b6e5-0ddc2f56f5f7)
+  
 
